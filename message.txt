@@ -1,0 +1,7 @@
+congratulations!!!
+ This is an email from email automation project
+ You managed to send an email messAge from the script
+
+ Regards
+ dominic vurudi
+ vurudi100@gmail.com
